@@ -1,4 +1,4 @@
-# Genetic-algorithm-project-
+# Genetic algorithm project
 ---
 
 ## Overview
